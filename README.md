@@ -53,6 +53,7 @@ See `requirements.txt` for details.
 Submission files are saved in the `results/` directory.
 
 ---
+Public Score: 0.96939
 
 **Author:**  
 Nikita
