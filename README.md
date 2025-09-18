@@ -3,7 +3,7 @@
 This project demonstrates a robust, modular pipeline for loan approval prediction using advanced machine learning models, feature engineering, and ensemble techniques. The workflow includes:
 
 - Exploratory Data Analysis (EDA)
-- Baseline models Linear Regression, 
+- Baseline models Linear Regression
 - Advanced models: CatBoost
 - Out-of-fold stacking and ensemble methods
 - Optuna hyperparameter tuning
